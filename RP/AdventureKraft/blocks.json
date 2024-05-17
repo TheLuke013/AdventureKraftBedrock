@@ -1,0 +1,39 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "dangerzone:abyssal_ore_block": {
+        "textures": "abyssal_ore",
+        "sound": "stone"
+    },
+    "dangerzone:aluminium_ore_block": {
+        "textures": "aluminium_ore",
+        "sound": "stone"
+    },
+    "dangerzone:cats_eye_ore_block": {
+        "textures": "cats_eye_ore",
+        "sound": "stone"
+    },
+    "dangerzone:coarse_amethyst_ore_block": {
+        "textures": "coarse_amethyst_ore",
+        "sound": "stone"
+    },
+    "dangerzone:play_button_ore_block": {
+        "textures": "play_button_ore",
+        "sound": "stone"
+    },
+    "dangerzone:salt_ore_block": {
+        "textures": "salt_ore",
+        "sound": "stone"
+    },
+    "dangerzone:sapphire_ore_block": {
+        "textures": "sapphire_ore",
+        "sound": "stone"
+    },
+    "dangerzone:titanium_ore_block": {
+        "textures": "titanium_ore",
+        "sound": "stone"
+    }
+}

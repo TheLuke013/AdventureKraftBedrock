@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.60",
+  "minecraft:block": {
+    "description": {
+      "identifier": "dangerzone:salt_ore_block",
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.ore"
+      }
+    },
+    "components": {
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 2
+      },
+      "minecraft:display_name": "Salt Ore\nSalt Ore kill ants and termites. Great for keeping ants/termites out of places you dont't want them! Place a few Salt ore in front of your door. Double wide does the trick. Sometimes ants will cross just one block.",
+      "minecraft:friction": 0.4,
+      "minecraft:map_color": "#757573",
+      "minecraft:light_dampening": 0,
+      "minecraft:loot": "loot_tables/empty.json"
+    }
+  }
+}

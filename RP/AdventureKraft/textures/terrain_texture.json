@@ -1,0 +1,32 @@
+{
+    "texture_name": "atlas.terrain",
+    "resource_pack_name": "dangerzone",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+      "abyssal_ore": {
+        "textures": "textures/blocks/mineral/ore/abyssal_ore_block"
+      },
+      "aluminium_ore": {
+        "textures": "textures/blocks/mineral/ore/aluminium_ore_block"
+      },
+      "cats_eye_ore": {
+        "textures": "textures/blocks/mineral/ore/cats_eye_ore"
+      },
+      "coarse_amethyst_ore": {
+        "textures": "textures/blocks/mineral/ore/coarse_amethyst_ore_block"
+      },
+      "play_button_ore": {
+        "textures": "textures/blocks/mineral/ore/play_button_ore_block"
+      },
+      "salt_ore": {
+        "textures": "textures/blocks/mineral/ore/salt_ore_block"
+      },
+      "sapphire_ore": {
+        "textures": "textures/blocks/mineral/ore/sapphire_ore_block"
+      },
+      "titanium_ore": {
+        "textures": "textures/blocks/mineral/ore/titanium_ore_block"
+      }
+    }
+  }
